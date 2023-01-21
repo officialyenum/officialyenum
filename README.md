@@ -1,5 +1,5 @@
 
-[![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000)](https://yenum.dev)
+[![MasterHead](https://res.cloudinary.com/yenum-dev/image/upload/v1674308196/chuckymagic/github-banner_c5dtla.png)](https://yenum.dev)
 
 
 <h1 align="center">Hi 👋, I'm Chukwuyenum Opone</h1>

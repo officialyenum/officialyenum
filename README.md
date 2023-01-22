@@ -8,19 +8,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialyenum&label=Profile%20views&color=0e75b6&style=flat" alt="officialyenum" /> </p>
 
-- 🔭 I’m currently working on [Battle Star 21](https://battlestar21.vercel.app/about)
+- 🔭 I’m currently working on [Ashiri](https://app.ashiri.ng)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://yenum.dev](https://yenum.dev)
+- 👨‍💻 All of my projects are available at [Yenum.dev](https://yenum.dev)
 
-- 📝 I regularly write articles on [https://officialyenum.medium.com/](https://officialyenum.medium.com/)
+- 🧠 Participated in lablab.ai AI21 Labs Hackathon [Battle Star 21 Submission](https://lablab.ai/event/ai21-labs-hackathon/ultron-coders/battle-star-21)
+
+- 📝 I regularly write articles on [Medium](https://officialyenum.medium.com/)
 
 - 💬 Ask me about **Mobile, Web, Api and Game Application Development**
 
 - 📫 How to reach me **oponechukwuyenum@gmail.com**
 
-- 📄 Know about my experiences [https://cv.yenum.dev/](https://cv.yenum.dev/)
+- 📄 Know about my experiences [CV](https://cv.yenum.dev/)
 
 - ⚡ Fun fact **I Love Anime, and a Huge Supporter of Arsenal**
 

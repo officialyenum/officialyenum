@@ -35,7 +35,7 @@
 <a href="https://www.youtube.com/c/opone chukwuyenum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="opone chukwuyenum" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/oponechukwuyenum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oponechukwuyenum" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/officialyenum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="officialyenum" height="30" width="40" /></a>
-<a href="https://discord.gg/4519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4519" height="30" width="40" /></a>
+<a href="https://discord.gg/officialyenum#4519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4519" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

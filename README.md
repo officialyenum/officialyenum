@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Ashiri](https://ashiri.ng)
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m also learning about **Artificial Intelligence, NLP, Game Development**
 
 - 👨‍💻 All of my projects are available at [Yenum.dev](https://yenum.dev)
 

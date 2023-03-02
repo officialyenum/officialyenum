@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Mobile, Web, Api and Game Application Development**
 
-- 📫 How to reach me **oponechukwuyenum@gmail.com**
+- 📫 How to reach me **oponechukwuyenum@gmail.com** , **hi@yenum.dev**
 
 - 📄 Know about my experiences [CV](https://cv.yenum.dev/)
 

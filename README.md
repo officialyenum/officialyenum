@@ -89,6 +89,7 @@
 
 <a href="https://github.com/officialyenum" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialyenum&layout=compact&langs_count=10&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### My Wakatime Trophies:
 <a href="https://github.com/officialyenum" align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=officialyenum&layout=compact&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Wakatime%20%Stats%20%this%20%week" alt="Wakatime Stats" /></a>
 
 ### My Github Trophies:

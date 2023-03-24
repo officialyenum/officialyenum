@@ -26,9 +26,6 @@
 
 - ⚡ Fun fact **I Love Anime, and a Huge Supporter of Arsenal**
 
-## Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=officialyenum)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## Connect with me:
 <p align="left">
@@ -85,7 +82,7 @@
 
 ## Badges
 
-<h3 align="left">My Github Stats:</h3>
+### My Github Stats
 <a href="http://www.github.com/officialyenum"><img src="https://github-readme-stats.vercel.app/api?username=officialyenum&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yenum's GitHub stats" /></a>
 
 <a href="http://www.github.com/officialyenum"><img src="https://github-readme-streak-stats.herokuapp.com/?user=officialyenum&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -93,6 +90,9 @@
 <a href="https://github.com/officialyenum" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialyenum&layout=compact&langs_count=10&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="https://github.com/officialyenum" align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=officialyenum&layout=compact&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Wakatime%20%Stats%20%this%20%week" alt="Wakatime Stats" /></a>
+
+### My Github Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=officialyenum)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Support:

@@ -26,6 +26,8 @@
 
 - ⚡ Fun fact **I Love Anime, and a Huge Supporter of Arsenal**
 
+<h3 align="left">Trophies:</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=officialyenum)](https://github.com/officialyenum/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/officialyenum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialyenum" height="30" width="40" /></a>

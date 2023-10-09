@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Chukwuyenum Opone</h1>
-<h3 align="center">A passionate Software and Game developer from Lagos, Nigeria</h3>
+<h3 align="center">A passionate Software and Game Programmer based in Middlesbrough, UK </h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e38b6fe997d2b82744cbf38a3f6218a8782b4416&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialyenum&label=Profile%20views&color=0e75b6&style=flat" alt="officialyenum" /> </p>

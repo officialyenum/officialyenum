@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialyenum&label=Profile%20views&color=0e75b6&style=flat" alt="officialyenum" /> </p>
 
-- 🔭 I’m currently working on [Ashiri](https://ashiri.ng)
+- 🔭 I’m currently Studying MSc. Computer Games Programming at Teesside University, Middlesbrough
 
-- 🌱 I’m also learning about **Artificial Intelligence. and NLP**
+- 🌱 I’m also learning about **Artificial Intelligence, Unreal Engine, C++. and NLP**
 
 - 👨‍💻 All of my projects are available at [Yenum.dev](https://yenum.dev)
 

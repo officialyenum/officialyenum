@@ -3,16 +3,16 @@
 
 <h1 align="center">Hi 👋, I'm Chukwuyenum Opone</h1>
 <h3 align="center">A passionate Software Developer and Game Programmer based in the, United Kingdom </h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e38b6fe997d2b82744cbf38a3f6218a8782b4416&rid=giphy.gif&ct=g"/>
+<img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e38b6fe997d2b82744cbf38a3f6218a8782b4416&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialyenum&label=Profile%20views&color=0e75b6&style=flat" alt="officialyenum" /> </p>
 
 - 🔭 I hold a **Distinction in MSc. Computer Games Programming** from Teesside University, Middlesbrough, UK.  
 
 - 🌱 I specialize in **Scalable Microservices, Cloud Infrastructure, API Design, and Game Development**.  
-   - I am currently exploring **Artificial Intelligence, Unreal Engine, and Natural Language Processing (NLP)**.
+- 📝 I am currently exploring **Artificial Intelligence, Unreal Engine, and Natural Language Processing (NLP)**.
 
-- 👨‍💻 Check out my projects on [Yenum.dev](https://yenum.dev):  
+- 👨‍💻 Check out my portfolio on [Yenum.dev](https://yenum.dev) :  
    - 🛠️ **Featured Game Projects**: [On Itch](https://officialyenum.itch.io) 
    - 🛠️ **Featured Web Project**: [Navis War](https://naviswar.com)  
 

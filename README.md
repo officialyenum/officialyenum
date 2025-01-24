@@ -1,31 +1,6 @@
 
 [![MasterHead](https://res.cloudinary.com/yenum-dev/image/upload/v1674308196/chuckymagic/github-banner_c5dtla.png)](https://yenum.dev)
 
-
-<h1 align="center">Hi 👋, I'm Chukwuyenum Opone</h1>
-<h3 align="center">A passionate Software and Game Programmer based in Middlesbrough, UK </h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e38b6fe997d2b82744cbf38a3f6218a8782b4416&rid=giphy.gif&ct=g"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialyenum&label=Profile%20views&color=0e75b6&style=flat" alt="officialyenum" /> </p>
-
-- 🔭 I’m currently Studying MSc. Computer Games Programming at Teesside University, Middlesbrough
-
-- 🌱 I’m also learning about **Artificial Intelligence, Unreal Engine, C++. and NLP**
-
-- 👨‍💻 All of my projects are available at [Yenum.dev](https://yenum.dev)
-
-- 🧠 Participated in lablab.ai AI21 Labs Hackathon [Battle Star 21 Submission](https://lablab.ai/event/ai21-labs-hackathon/ultron-coders/battle-star-21)
-
-- 📝 I regularly write articles on [Medium](https://officialyenum.medium.com/)
-
-- 💬 Ask me about **Mobile, Web, Api and Game Application Development**
-
-- 📫 How to reach me **oponechukwuyenum@gmail.com** , **hi@yenum.dev**
-
-- 📄 Know about my experiences [CV](https://cv.yenum.dev/)
-
-- ⚡ Fun fact **I Love Anime, and a Huge Supporter of Arsenal**
-
 <h1 align="center">Hi 👋, I'm Chukwuyenum Opone</h1>
 <h3 align="center">A passionate Software Developer and Game Programmer based in the, United Kingdom </h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e38b6fe997d2b82744cbf38a3f6218a8782b4416&rid=giphy.gif&ct=g"/>

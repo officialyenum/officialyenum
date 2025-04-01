@@ -7,9 +7,13 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate Gameplay Programmer based in the United Kingdom, specializing in C++ Game Development using Unreal Engine. My primary focus is on building engaging, high-performance gameplay systems. I hold a Distinction in MSc. Computer Games Programming from Teesside University, Middlesbrough, UK.
+I am a passionate Gameplay Programmer based in the United Kingdom, specializing in C++ Game Development using Unreal Engine. My primary focus is on building engaging, high-performance gameplay systems.
 
 <img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e38b6fe997d2b82744cbf38a3f6218a8782b4416&rid=giphy.gif&ct=g"/>
+🔭 I hold a Distinction in MSc. Computer Games Programming from Teesside University, Middlesbrough, UK.
+🌱 I focus primarily on Gameplay Programming in C++ using Unreal Engine.
+📝 I am currently working on enhancing my Unreal C++ skills, AI Programming, and Gameplay Systems.
+💬 Ask me about Gameplay Programming, Unreal Engine C++, AI Programming, and Game Systems.
 
 ### 🔥 Skills
 - C++ Gameplay Programming
@@ -22,7 +26,7 @@ I am a passionate Gameplay Programmer based in the United Kingdom, specializing 
 Here are some of my most significant C++ projects built with Unreal Engine:
 
 - **[ToonTanks](https://github.com/officialyenum/ToonTanks)**: A gameplay programming project demonstrating actor components, replication, and core gameplay logic.
-- **[Turn-Based Framework Master Project](https://github.com/officialyenum/TurnBasedFrameworkMasterProject)**: A framework showcasing core Unreal systems, data structures, components, and delegates.
+- **[Turn-Based Framework Master Project](https://github.com/officialyenum/TurnBasedFrameworkMasterProject)**: A framework showcasing core Unreal systems, AI Algorithms, data structures, components, and delegates.
 - **[Drone Defiance FPS Prototype](https://github.com/officialyenum/DroneDefianceFPSPrototype)**: An FPS prototype that demonstrates gameplay features and efficient use of Unreal's API.
 - **[Yegun RPG](https://github.com/officialyenum/YegunRpg)**: An RPG project featuring gameplay ability systems and advanced replication techniques.
 - **[2D Games with Paper2D and ZD](https://github.com/officialyenum/UE_2D_Games_With_Paper2D_and_ZD)**: Implementation of 2D gameplay using Unreal Engine’s Paper2D and PaperZD API.
@@ -54,6 +58,9 @@ I am actively exploring advanced gameplay mechanics and AI integration in Unreal
 
 ### ⚡ Fun Fact
 I’m a huge anime fan and an avid Arsenal supporter!
+
+### 🛠️ Additional Experience:
+Aside from game programming, I also have experience as a software engineer specializing in scalable microservices, cloud infrastructure, and API design.
 
 ### 🛠️ Featured Web Project:
 - **[Navis War Rest API Development and DevOps - (Nest JS, GCP, Typescript)](https://naviswar.com)** 

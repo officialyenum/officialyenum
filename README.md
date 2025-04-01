@@ -1,33 +1,64 @@
 
 [![MasterHead](https://res.cloudinary.com/yenum-dev/image/upload/v1674308196/chuckymagic/github-banner_c5dtla.png)](https://yenum.dev)
 
-<h1 align="center">Hi 👋, I'm Chukwuyenum Opone</h1>
-<h3 align="center">A passionate Software Developer and Game Programmer based in the, United Kingdom </h3>
-<img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e38b6fe997d2b82744cbf38a3f6218a8782b4416&rid=giphy.gif&ct=g"/>
-
+# Hi 👋, I'm Chukwuyenum Opone
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialyenum&label=Profile%20views&color=0e75b6&style=flat" alt="officialyenum" /> </p>
+## About Me
 
-- 🔭 I hold a **Distinction in MSc. Computer Games Programming** from Teesside University, Middlesbrough, UK.  
+I am a passionate Gameplay Programmer based in the United Kingdom, specializing in C++ Game Development using Unreal Engine. My primary focus is on building engaging, high-performance gameplay systems. I hold a Distinction in MSc. Computer Games Programming from Teesside University, Middlesbrough, UK.
 
-- 🌱 I specialize in **Scalable Microservices, Cloud Infrastructure, API Design, and Game Development**.  
-- 📝 I am currently exploring **Artificial Intelligence, Unreal Engine, and Natural Language Processing (NLP)**.
+### 🔥 Skills
+- C++ Gameplay Programming
+- Unreal Engine Development
+- AI Systems and Gameplay Ability Systems
+- Replication and Networking
+- Game Systems and Framework Design
 
-- 👨‍💻 Check out my portfolio on [Yenum.dev](https://yenum.dev) :  
-   - 🛠️ **Featured Game Projects**: [On Itch](https://officialyenum.itch.io) 
-   - 🛠️ **Featured Web Project**: [Navis War](https://naviswar.com)  
+### 🎮 Featured C++ Projects
+Here are some of my most significant C++ projects built with Unreal Engine:
 
-- 📝 I regularly write about technology on [Medium](https://officialyenum.medium.com/).
-
-- 💬 Ask me about **Game Programming, Backend Development, Event-Driven Architecture, and API Design**.
-
-- 📫 How to reach me:  
-   - **Email**: oponechukwuyenum@gmail.com or hi@yenum.dev  
-   - **Portfolio**: [CV](https://cv.yenum.dev/)
-
-- ⚡ Fun fact: **I’m a huge fan of anime and an avid Arsenal supporter.**
+- **[ToonTanks](https://github.com/officialyenum/ToonTanks)**: A gameplay programming project demonstrating actor components, replication, and core gameplay logic.
+- **[Turn-Based Framework Master Project](https://github.com/officialyenum/TurnBasedFrameworkMasterProject)**: A framework showcasing core Unreal systems, data structures, components, and delegates.
+- **[Drone Defiance FPS Prototype](https://github.com/officialyenum/DroneDefianceFPSPrototype)**: An FPS prototype that demonstrates gameplay features and efficient use of Unreal's API.
+- **[Yegun RPG](https://github.com/officialyenum/YegunRpg)**: An RPG project featuring gameplay ability systems and advanced replication techniques.
+- **[2D Games with Paper2D and ZD](https://github.com/officialyenum/UE_2D_Games_With_Paper2D_and_ZD)**: Implementation of 2D gameplay using Unreal Engine’s Paper2D and PaperZD API.
+- **[Games With C++]((https://github.com/officialyenum/GamesWithCPP))**: These are Games i made using C++ and frameworks like Raylib, updated as i add more to it.
 
 
+### 🎮 Featured Game Jam Projects
+- **[Dystopian Bubble (Global Game Jam - Jan 2025) - (Unreal Engine 5.3)](https://officialyenum.itch.io/dystopian-bubble)**
+- **[Portrait (Drinks Dev Game Jam -Oct 2024) - (Unreal Engine 5.3)](https://officialyenum.itch.io/portrait-portrait)**
+- **[Angry Dans (Athena Game Jam - April 2024) - (Unreal Engine 5.3)](https://maximasprime.itch.io/angry-dans)**
+- **[Tooth Fairy (Global Game Jam - Jan 2024) - (Unreal Engine 5.3)](https://globalgamejam.org/games/2024/tooth-fairy-smile-savior-5)** 
 
+
+### 🛠️ Published Itch Titles:
+- **[Drone Defiance (Solo) - (Unreal Engine 5.3, C++)](https://officialyenum.itch.io/drone-defiance)**
+- 
+### 🛠️ Published Steam Titles:
+- **[Artefact Unearthed VR (Currently In Development with Wee Tattie Studios) - (Unreal Engine 5.4, C++)]**
+
+
+### 🌱 Current Focus
+I am actively exploring advanced gameplay mechanics and AI integration in Unreal Engine.
+
+### 📫 Let's Connect
+- Portfolio: [Yenum.dev](https://yenum.dev)
+- Blog: [Medium](https://officialyenum.medium.com/)
+- LinkedIn: [Chukwuyenum Opone](https://linkedin.com/in/yenum)
+- GitHub: [officialyenum](https://github.com/officialyenum)
+- Email: oponechukwuyenum@gmail.com or hi@yenum.dev
+
+### ⚡ Fun Fact
+I’m a huge anime fan and an avid Arsenal supporter!
+
+### 🛠️ Featured Web Project:
+- **[Navis War Rest API Development and DevOps - (Nest JS, GCP, Typescript)](https://naviswar.com)** 
+- **[Dice.ng Fullstack Game Development - (Phaser, NodeJS, Laravel, Typescript, PHP)](https://dice.ng)** 
+- **[Sportsbook Engine Virtuals, Casino and Payments API Integration - (NestJS, Laravel, Typescript, PHP)](https://sportsbookengine.com/)**
+---
+
+Thank you for checking out my profile! Feel free to reach out if you have any questions or just want to chat about gameplay programming.
 
 ## Connect with me:
 <p align="left">
@@ -40,47 +71,6 @@
 <a href="https://www.leetcode.com/officialyenum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="officialyenum" height="30" width="40" /></a>
 <a href="https://discord.gg/officialyenum#4519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4519" height="30" width="40" /></a>
 </p>
-
-## Languages and Tools:
-<!-- <h3 align="left">Languages and Tools:</h3> -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-
 
 ## Badges
 

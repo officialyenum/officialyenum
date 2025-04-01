@@ -2,8 +2,8 @@
 [![MasterHead](https://res.cloudinary.com/yenum-dev/image/upload/v1674308196/chuckymagic/github-banner_c5dtla.png)](https://yenum.dev)
 
 # Hi 👋, I'm Chukwuyenum Opone
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialyenum&label=Profile%20views&color=0e75b6&style=flat" alt="officialyenum" /> </p>
-## About Me
+<p align="left"><img src="https://komarev.com/ghpvc/?username=officialyenum&label=Profile%20views&color=0e75b6&style=flat" alt="officialyenum" /></p>
+### About Me
 
 I am a passionate Gameplay Programmer based in the United Kingdom, specializing in C++ Game Development using Unreal Engine. My primary focus is on building engaging, high-performance gameplay systems. I hold a Distinction in MSc. Computer Games Programming from Teesside University, Middlesbrough, UK.
 

@@ -22,7 +22,7 @@ Here are some of my most significant C++ projects built with Unreal Engine:
 - **[Drone Defiance FPS Prototype](https://github.com/officialyenum/DroneDefianceFPSPrototype)**: An FPS prototype that demonstrates gameplay features and efficient use of Unreal's API.
 - **[Yegun RPG](https://github.com/officialyenum/YegunRpg)**: An RPG project featuring gameplay ability systems and advanced replication techniques.
 - **[2D Games with Paper2D and ZD](https://github.com/officialyenum/UE_2D_Games_With_Paper2D_and_ZD)**: Implementation of 2D gameplay using Unreal Engine’s Paper2D and PaperZD API.
-- **[Games With C++]((https://github.com/officialyenum/GamesWithCPP))**: These are Games i made using C++ and frameworks like Raylib, updated as i add more to it.
+- **[Games With C++](https://github.com/officialyenum/GamesWithCPP)**: These are Games i made using C++ and frameworks like Raylib, updated as i add more to it.
 
 
 ### 🎮 Featured Game Jam Projects

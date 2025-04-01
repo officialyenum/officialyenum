@@ -1,7 +1,7 @@
 
 [![MasterHead](https://res.cloudinary.com/yenum-dev/image/upload/v1674308196/chuckymagic/github-banner_c5dtla.png)](https://yenum.dev)
 
-# Hi 👋, I'm Chukwuyenum Opone
+# Hi 👋, I'm Chukwuyenum Opone, my friends call me Yenum
 <p align="left"><img src="https://komarev.com/ghpvc/?username=officialyenum&label=Profile%20views&color=0e75b6&style=flat" alt="officialyenum" /></p>
 ### About Me
 

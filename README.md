@@ -10,6 +10,7 @@
 I am a passionate Gameplay Programmer based in the United Kingdom, specializing in C++ Game Development using Unreal Engine. My primary focus is on building engaging, high-performance gameplay systems.
 
 <img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e38b6fe997d2b82744cbf38a3f6218a8782b4416&rid=giphy.gif&ct=g"/>
+
 🔭 I hold a Distinction in MSc. Computer Games Programming from Teesside University, Middlesbrough, UK.
 
 🌱 I focus primarily on Gameplay Programming in C++ using Unreal Engine.
@@ -24,6 +25,7 @@ I am a passionate Gameplay Programmer based in the United Kingdom, specializing 
 - AI Systems and Gameplay Ability Systems
 - Replication and Networking
 - Game Systems and Framework Design
+- Software Engineering
 
 ### 🎮 Featured C++ Projects
 Here are some of my most significant C++ projects built with Unreal Engine:

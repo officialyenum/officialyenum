@@ -34,10 +34,9 @@ Here are some of my most significant C++ projects built with Unreal Engine:
 
 ### 🛠️ Published Itch Titles:
 - **[Drone Defiance (Solo) - (Unreal Engine 5.3, C++)](https://officialyenum.itch.io/drone-defiance)**
-- 
-### 🛠️ Published Steam Titles:
-- **[Artefact Unearthed VR (Currently In Development with Wee Tattie Studios) - (Unreal Engine 5.4, C++)]**
 
+### 🛠️ Published Steam Titles:
+- Artefact Unearthed VR (Volunteer Lead Programmer with Wee Tattie Studios) - (Unreal Engine 5.4, C++)
 
 ### 🌱 Current Focus
 I am actively exploring advanced gameplay mechanics and AI integration in Unreal Engine.

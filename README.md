@@ -69,9 +69,9 @@ I’m a huge anime fan and an avid Arsenal supporter!
 Aside from game programming, I also have experience as a software engineer specializing in scalable microservices, cloud infrastructure, and API design.
 
 ### 🛠️ Featured Web Project:
-- **[Navis War Rest API Development and DevOps - (Nest JS, GCP, Typescript)](https://naviswar.com)** 
-- **[Dice.ng Fullstack Game Development - (Phaser, NodeJS, Laravel, Typescript, PHP)](https://dice.ng)** 
-- **[Sportsbook Engine Virtuals, Casino and Payments API Integration - (NestJS, Laravel, Typescript, PHP)](https://sportsbookengine.com/)**
+- **[Navis War Rest API Development and DevOps - (Nest JS, Typescript)](https://www.navixecosystem.com/)**
+- **[Dice.ng Fullstack Game Development - (CreateJS, NodeJS, Laravel, Typescript, PHP)](https://www.linkedin.com/company/dice-ng/posts/?feedView=images)** 
+- **[Sportsbook Engine Virtuals, Casino and Payments API Integration - (ASP.Net, Laravel, Node.JS, Typescript,)](https://sportsbookengine.com/)**
 ---
 
 Thank you for checking out my profile! Feel free to reach out if you have any questions or just want to chat about gameplay programming.

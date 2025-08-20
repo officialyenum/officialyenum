@@ -42,7 +42,7 @@ Here are some of my most significant C++ projects built with Unreal Engine:
 
 ### 🎮 Featured Game Jam Projects
 - **[Meowsic (GMTK Game Jam - Aug 2025) - (Unreal Engine 5.4 and C++)](https://scytestudios.itch.io/meowsic)**
-- **[The Damned (GJL Game Parade Game Jam - June 2025) - (Unreal Engine 5.3)](https://officialyenum.itch.io/the-damned)**
+- **[The Damned (GJL Game Parade Game Jam - June 2025) - (Unreal Engine 5.4)](https://officialyenum.itch.io/the-damned)**
 - **[Dystopian Bubble (Global Game Jam - Jan 2025) - (Unreal Engine 5.3)](https://officialyenum.itch.io/dystopian-bubble)**
 - **[Portrait (Drinks Dev Game Jam -Oct 2024) - (Unreal Engine 5.3)](https://officialyenum.itch.io/portrait-portrait)**
 - **[Angry Dans (Athena Game Jam - April 2024) - (Unreal Engine 5.3)](https://maximasprime.itch.io/angry-dans)**

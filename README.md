@@ -36,10 +36,13 @@ Here are some of my most significant C++ projects built with Unreal Engine:
 - **[Yegun RPG](https://github.com/officialyenum/YegunRpg)**: An RPG project featuring gameplay ability systems and advanced replication techniques.
 - **[2D Games with Paper2D and ZD](https://github.com/officialyenum/UE_2D_Games_With_Paper2D_and_ZD)**: Implementation of 2D gameplay using Unreal Engine’s Paper2D and PaperZD API.
 - **[Games With C++](https://github.com/officialyenum/GamesWithCPP)**: These are Games i made using C++ and frameworks like Raylib, updated as i add more to it.
+- **[SFML Playground](https://github.com/officialyenum/SFML-Playground)**: These are Games i made using C++ and SFML Library, updated as i add more to it.
 - **[ToonTanks](https://github.com/officialyenum/ToonTanks)**: A gameplay programming project demonstrating actor components, replication, and core gameplay logic.
 
 
 ### 🎮 Featured Game Jam Projects
+- **[Meowsic (GMTK Game Jam - Aug 2025) - (Unreal Engine 5.4 and C++)](https://scytestudios.itch.io/meowsic)**
+- **[The Damned (GJL Game Parade Game Jam - June 2025) - (Unreal Engine 5.3)](https://officialyenum.itch.io/the-damned)**
 - **[Dystopian Bubble (Global Game Jam - Jan 2025) - (Unreal Engine 5.3)](https://officialyenum.itch.io/dystopian-bubble)**
 - **[Portrait (Drinks Dev Game Jam -Oct 2024) - (Unreal Engine 5.3)](https://officialyenum.itch.io/portrait-portrait)**
 - **[Angry Dans (Athena Game Jam - April 2024) - (Unreal Engine 5.3)](https://maximasprime.itch.io/angry-dans)**
@@ -53,14 +56,15 @@ Here are some of my most significant C++ projects built with Unreal Engine:
 - Artefact Unearthed VR (Volunteer Lead Programmer with Wee Tattie Studios) - (Unreal Engine 5.4, C++)
 
 ### 🌱 Current Focus
-I am actively exploring advanced gameplay mechanics and AI integration in Unreal Engine.
+I am actively exploring advanced gameplay mechanics and AI integration in Unreal Engine using C++.
 
 ### 📫 Let's Connect
 - Portfolio: [Yenum.dev](https://yenum.dev)
 - Blog: [Medium](https://officialyenum.medium.com/)
 - LinkedIn: [Chukwuyenum Opone](https://linkedin.com/in/yenum)
 - GitHub: [officialyenum](https://github.com/officialyenum)
-- Email: oponechukwuyenum@gmail.com or hi@yenum.dev
+- YouTube: [officialyenum](https://youtube.com/@officialyenum)
+- Email: oponechukwuyenum@gmail.com
 
 ### ⚡ Fun Fact
 I’m a huge anime fan and an avid Arsenal supporter!

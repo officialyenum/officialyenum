@@ -7,17 +7,17 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate Programmer based in the United Kingdom, specializing in C++ Game Development using Unreal Engine. My primary focus is on building engaging, high-performance gameplay systems.
+I am a passionate Programmer based in the United Kingdom. My primary focus is on building engaging, high-performance gameplay and enterprise software systems.
 
 <img  align="right" width="200" height="300" alt="scyte studio portrait yenum 1mb" src="https://github.com/user-attachments/assets/3254d6fa-f7c5-4bd6-be22-826b63d4f888" />
 
 🔭 I hold a Distinction in MSc. Computer Games Programming from Teesside University, Middlesbrough, UK.
 
-🌱 I focus primarily on Gameplay Programming in C++ using Unreal Engine.
+🌱 I focus primarily on Software and Gameplay Engineering.
 
 📝 I am currently working on enhancing my Unreal C++ skills, AI Programming, and Gameplay Systems.
 
-💬 Ask me about Gameplay Programming, Unreal Engine C++, AI Programming, and Game Systems.
+💬 Ask me about Gameplay Programming, Third Party Integrations, Software Engineering, Unreal Engine C++, and AI Programming.
 
 ### 🔥 Skills
 - C++ Gameplay Programming
@@ -25,7 +25,9 @@ I am a passionate Programmer based in the United Kingdom, specializing in C++ Ga
 - AI Systems and Gameplay Ability Systems
 - Replication and Networking
 - Game Systems and Framework Design
-- Software Engineering
+- Fullstack Software Engineering and Integrations
+- Node.JS / Typescript / Laravel / PHP
+- C# Asp.net Enterprise Application Engineering
 
 ### 🎮 Featured C++ Projects
 Here are some of my most significant C++ projects built with Unreal Engine:
@@ -53,7 +55,7 @@ Here are some of my most significant C++ projects built with Unreal Engine:
 - **[Drone Defiance (Solo) - (Unreal Engine 5.3, C++)](https://officialyenum.itch.io/drone-defiance)**
 
 ### 🛠️ Published Steam Titles:
-- Artefact Unearthed VR (Volunteer Lead Programmer with Wee Tattie Studios) - (Unreal Engine 5.4, C++)
+- **[Castle Cairn (Volunteer Programmer with Wee Tattie Studios) - (Unreal Engine 5.4, C++)](https://store.steampowered.com/app/3844980/Castle_Cairn)
 
 ### 🌱 Current Focus
 I am actively exploring advanced gameplay mechanics and AI integration in Unreal Engine using C++.
@@ -73,6 +75,7 @@ I’m a huge anime fan and an avid Arsenal supporter!
 Aside from game programming, I also have experience as a software engineer specializing in scalable microservices, cloud infrastructure, and API design.
 
 ### 🛠️ Featured Web Project:
+- **[A simple RESTful API built to serve FHIR (Fast Healthcare Interoperability Resources) Node.JS, Typescript](https://github.com/officialyenum/fhir-rest-api)**
 - **[Navis War Rest API Development and DevOps - (Nest JS, Typescript)](https://www.navixecosystem.com/)**
 - **[Dice.ng Fullstack Game Development - (CreateJS, NodeJS, Laravel, Typescript, PHP)](https://www.linkedin.com/company/dice-ng/posts/?feedView=images)** 
 - **[Sportsbook Engine Virtuals, Casino and Payments API Integration - (ASP.Net, Laravel, Node.JS, Typescript,)](https://sportsbookengine.com/)**

@@ -15,22 +15,20 @@ I am a passionate Programmer based in the United Kingdom. My primary focus is on
 
 🌱 I focus primarily on Software and Gameplay Engineering.
 
-📝 I am currently working on enhancing my Unreal C++ skills, AI Programming, and Gameplay Systems.
-
 💬 Ask me about Gameplay Programming, Third Party Integrations, Software Engineering, Unreal Engine C++, and AI Programming.
 
 ### 🔥 Skills
-- C++ Gameplay Programming
+- C++ Programming
+- Node.JS / Typescript / Laravel / PHP
 - Unreal Engine Development
 - AI Systems and Gameplay Ability Systems
 - Replication and Networking
 - Game Systems and Framework Design
 - Fullstack Software Engineering and Integrations
-- Node.JS / Typescript / Laravel / PHP
 - C# Asp.net Enterprise Application Engineering
 
 ### 🎮 Featured C++ Projects
-Here are some of my most significant C++ projects built with Unreal Engine:
+Here are some of my most significant C++ projects built with Unreal Engine and similar engines/libraries:
 
 - **[Gidi Dungeon](https://github.com/officialyenum/GidiDungeon)**: An Unreal C++ Multiplayer Game where players scramble in a dungeon to find the Gidi treasure, by interacting with chests and stunning opponents with spells.
 - **[Turn-Based Framework Master Project](https://github.com/officialyenum/TurnBasedFrameworkMasterProject)**: A framework showcasing core Unreal systems, AI Algorithms, data structures, components, and delegates.

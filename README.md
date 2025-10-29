@@ -53,7 +53,7 @@ Here are some of my most significant C++ projects built with Unreal Engine and s
 - **[Drone Defiance (Solo) - (Unreal Engine 5.3, C++)](https://officialyenum.itch.io/drone-defiance)**
 
 ### 🛠️ Published Steam Titles:
-- **[Castle Cairn (Volunteer Programmer with Wee Tattie Studios) - (Unreal Engine 5.4, C++)](https://store.steampowered.com/app/3844980/Castle_Cairn)
+- **[Castle Cairn (Volunteer Programmer with Wee Tattie Studios) - (Unreal Engine 5.4, C++)](https://store.steampowered.com/app/3844980/Castle_Cairn)**
 
 ### 🌱 Current Focus
 I am actively exploring advanced gameplay mechanics and AI integration in Unreal Engine using C++.

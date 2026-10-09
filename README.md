@@ -51,10 +51,11 @@ Here are some of my most significant C++ projects built with Unreal Engine and s
 
 ### 🛠️ Published Itch Titles:
 - **[Drone Defiance (Solo) - (Unreal Engine 5.3, C++)](https://officialyenum.itch.io/drone-defiance)**
+- **[Meowsic (PC Demo) - (Unreal Engine 5.6, C++)](https://scytestudios.itch.io/meowsic)**
 
 ### 🛠️ Published Steam Titles:
-- **[Meowsic) - (Unreal Engine 5.8, C++)](https://store.steampowered.com/app/4468420/Meowsic/)**
-- **[Hounded) - (Unreal Engine 5.8, C++)](https://store.steampowered.com/app/3695350/Hounded/)**
+- **[Meowsic - (Unreal Engine 5.8, C++)](https://store.steampowered.com/app/4468420/Meowsic/)**
+- **[Hounded - (Unreal Engine 5.8, C++)](https://store.steampowered.com/app/3695350/Hounded/)**
 
 ### 🌱 Current Focus
 I am actively exploring advanced gameplay mechanics and AI integration in Unreal Engine using C++.

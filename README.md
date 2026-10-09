@@ -53,7 +53,8 @@ Here are some of my most significant C++ projects built with Unreal Engine and s
 - **[Drone Defiance (Solo) - (Unreal Engine 5.3, C++)](https://officialyenum.itch.io/drone-defiance)**
 
 ### 🛠️ Published Steam Titles:
-- **[Castle Cairn (Volunteer Programmer with Wee Tattie Studios) - (Unreal Engine 5.4, C++)](https://store.steampowered.com/app/3844980/Castle_Cairn)**
+- **[Meowsic) - (Unreal Engine 5.8, C++)](https://store.steampowered.com/app/4468420/Meowsic/)**
+- **[Hounded) - (Unreal Engine 5.8, C++)](https://store.steampowered.com/app/3695350/Hounded/)**
 
 ### 🌱 Current Focus
 I am actively exploring advanced gameplay mechanics and AI integration in Unreal Engine using C++.
@@ -73,6 +74,7 @@ I’m a huge anime fan and an avid Arsenal supporter!
 Aside from game programming, I also have experience as a software engineer specializing in scalable microservices, cloud infrastructure, and API design.
 
 ### 🛠️ Featured Web Project:
+- **[Osanebi Real time QA - (Next JS, Hono.js, Cloudflare)](https://osanebi.yenum.dev/))**
 - **[A simple RESTful API built to serve FHIR (Fast Healthcare Interoperability Resources) Node.JS, Typescript](https://github.com/officialyenum/fhir-rest-api)**
 - **[Navis War Rest API Development and DevOps - (Nest JS, Typescript)](https://www.navixecosystem.com/)**
 - **[Dice.ng Fullstack Game Development - (CreateJS, NodeJS, Laravel, Typescript, PHP)](https://www.linkedin.com/company/dice-ng/posts/?feedView=images)** 
